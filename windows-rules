@@ -1,0 +1,9 @@
+
+#~/.config/hypr/Userconfigs/widowsrules.conf
+windowrule = size 50% 80%, title:^(Spotify)$
+windowrule = float, title:^(Spotify)$
+windowrule = float, tag:terminal*
+windowrule = size 45% 60%, tag:terminal*
+ 
+windowrule = size 40% 80%, title:^(Discord)$
+windowrule = float, title:^(Discord)
